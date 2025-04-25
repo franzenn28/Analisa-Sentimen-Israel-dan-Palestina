@@ -81,11 +81,11 @@ Key Insights
  
 	•	Distribusi Sentimen:
  
-	•	Negatif: 45.8%
+	        Negatif: 45.8%
  
-	•	Netral: 21.3%
+	        Netral: 21.3%
  
-	•	Positif: 32.9%
+	        Positif: 32.9%
 
  
 	•	Topik dominan: Israel, diikuti oleh Palestina dan netral.
