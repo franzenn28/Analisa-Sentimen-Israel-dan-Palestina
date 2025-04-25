@@ -2,6 +2,7 @@
 
 Project Overview
 
+
 Proyek ini bertujuan untuk menganalisis sentimen publik terkait konflik Israel-Palestina berdasarkan komentar dan postingan pengguna Reddit. Analisis ini bertujuan untuk memberikan wawasan objektif yang dapat digunakan oleh perusahaan media dalam membuat laporan berita yang akurat dan relevan.
 
 Goals
